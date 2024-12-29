@@ -47,6 +47,6 @@ public class Main {
         System.out.println("Всего работников в компании-" + result15 + "человек");
         var result16 = result15 + 94;
         var result17 = workClock / result16;
-        System.out.println("Если в компании работает " +result16+ " человека, то всего " +result17+ " часа работы может быть поделено между сотрудниками  ");
+        System.out.println("Если в компании работает " +result16+ " человека, то всего " +result17+ " часа работы может быть поделено между сотрудниками");
     }
 }
