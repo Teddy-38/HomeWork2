@@ -44,7 +44,7 @@ public class Main {
         var workClock = 640;
         var peopleClock = 8;
         var result1 = workClock / peopleClock;
-        System.out.println("Всего работников в компании - " + result1 + " человек");
+        System.out.println("Всего работников в компании " + result1 + " человек");
         var result2 = result1 + 94;
         var result3 = workClock / result2;
         System.out.println("Если в компании работает " +result2+ " человека, то всего " +result3+ " часа работы может быть поделено между сотрудниками");
